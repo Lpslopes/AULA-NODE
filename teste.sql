@@ -1,1 +1,1 @@
-update usuarios set nome = "Pinheiro";
+update usuarios set nome = "Jesus" where nome = "Pinheiro";
