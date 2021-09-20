@@ -1,1 +1,1 @@
-delete from usuarios where nome = "Victor Jose";
+update usuarios set nome = "Pinheiro";
